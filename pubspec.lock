@@ -74,9 +74,11 @@ packages:
   editormodule:
     dependency: "direct main"
     description:
-      path: "../imageeditor"
-      relative: true
-    source: path
+      path: "."
+      ref: "26e61e07f7280456ac4cbd9940d62835d00e33b8"
+      resolved-ref: "26e61e07f7280456ac4cbd9940d62835d00e33b8"
+      url: "git@github.com:yogurtpops/imageeditor.git"
+    source: git
     version: "1.0.0+1"
   esys_flutter_share:
     dependency: "direct main"
